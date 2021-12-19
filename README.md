@@ -1,2 +1,2 @@
-# Regression-Analysis---Supervised-Learning
+# Regression-Analysis-Supervised-Learning
 This source code establishes a task in which a supervised model is meant to predict a given outcome. Process takes into consideration a number of models, tests and trains the data against the model after a process of data engineering. The model that performs the best with the highest R-Square and additional metrics comparison is taken as the best model for the task.
